@@ -6,7 +6,7 @@ Thank you for visiting my programming projects. The majority of the code was wri
 
 # This repository contains introductory projects for higher-level programming. 
 
-##Topics include:
+## Topics include:
 
 - Commenting code and following a coding style standard
 - Variables, data structures, operators, expressions, loops, nested loops
@@ -31,5 +31,4 @@ Thank you for visiting my programming projects. The majority of the code was wri
 8. node 6.10
 9. semistandard 11.0
 
-
-## author @Casswell Maswanganye
+#### Author @Casswell Maswanganye
