@@ -24,13 +24,14 @@ Classes and inheritance
 Python IO
 SQL and SQLAlchemy
 Requests and web scraping and more!
-Requirements
-Ubuntu 14.04 LTS
-Python 3.4
-pip3 1.5
-pep8 1.7
-MySQL 5.7
-MySQLdb 1.3
-SQLAlchemy 1.1
-node 6.10
-semistandard 11.0
+
+## Requirements
+1. Ubuntu 14.04 LTS
+2. Python 3.4
+3. pip3 1.5
+4. pep8 1.7
+5. MySQL 5.7
+6. MySQLdb 1.3
+7. SQLAlchemy 1.1
+8. node 6.10
+9. semistandard 11.0
