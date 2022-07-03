@@ -4,26 +4,21 @@
 # Welcome
 Thank you for visiting my programming projects. The majority of the code was written in Python3, with a few projects written in bash, MySQL, or JavaScript.
 
-# Table of Contents
-About
-Requirements
-Projects
-Credits
-About
+# This repository contains introductory projects for higher-level programming. 
 
-# This repository contains introductory projects for higher-level programming. Topics include:
+##Topics include:
 
-Commenting code and following a coding style standard
-Variables, data structures, operators, expressions, loops, nested loops
-Conditional statements
-Functions
-Importing
-Exceptions
-Unit Testing
-Classes and inheritance
-Python IO
-SQL and SQLAlchemy
-Requests and web scraping and more!
+- Commenting code and following a coding style standard
+- Variables, data structures, operators, expressions, loops, nested loops
+- Conditional statements
+- Functions
+- Importing
+- Exceptions
+- Unit Testing
+- Classes and inheritance
+- Python IO
+- SQL and SQLAlchemy
+- Requests and web scraping and more!
 
 ## Requirements
 1. Ubuntu 14.04 LTS
@@ -35,3 +30,6 @@ Requests and web scraping and more!
 7. SQLAlchemy 1.1
 8. node 6.10
 9. semistandard 11.0
+
+
+## author @Casswell Maswanganye
